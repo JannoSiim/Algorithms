@@ -35,7 +35,7 @@ public class Main {
 		Algorithms.priorityDFT_Traversal(edges);
 		
 		/*
-		int[] values = new int[1000];
+	
 		BufferedReader reader;
 		try {
 			reader = new BufferedReader(new FileReader("C:/Users/Janno/Dropbox/kool/Advanced algorithms/HW 6/1000_keys.txt"));
