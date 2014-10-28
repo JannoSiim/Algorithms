@@ -36,7 +36,6 @@ public class Main {
 		
 		/*
 	
-		BufferedReader reader;
 		try {
 			reader = new BufferedReader(new FileReader("C:/Users/Janno/Dropbox/kool/Advanced algorithms/HW 6/1000_keys.txt"));
 			String line = null;
